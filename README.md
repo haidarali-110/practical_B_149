@@ -1,6 +1,6 @@
 # Cloud Computing with DevOps Practical
 
-## 👨‍🎓 Students Information
+##  Students Information
 
 | Name | Enrollment Number | Practical Set |
 |------|------------------|--------------|
@@ -25,12 +25,12 @@ Cloud Computing with DevOps
 
 ---
 
-## 📖 Practical Overview
+##  Practical Overview
 This repository contains practical exercises and assignments related to Cloud Computing with DevOps. It includes Python programs, GitHub operations, and proper documentation for all tasks.
 
 ---
 
-## 📝 Notes
+##  Notes
 
  - Each practical task is organized in separate files.
 
